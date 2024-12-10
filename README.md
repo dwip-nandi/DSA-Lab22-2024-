@@ -1,2 +1,2 @@
-# DSA-Lab22-2024-
+# DSA-Lab22-2024
 These topics are solutions of DSA Leb problems .....
